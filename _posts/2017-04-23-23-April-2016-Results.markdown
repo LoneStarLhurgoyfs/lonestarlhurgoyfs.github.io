@@ -2,7 +2,7 @@
 layout: post
 title:  "23 April 2017 Proxy Vintage at Brash Brewing Co [9 Players]"
 date:   2017-04-23 21:10:00 -0500
-categories: Vintage Results AsgardGames
+categories: Vintage Results BrashBrewingCo
 ---
 [Link to announcement post](http://themanadrain.com/topic/1134/4-23-17-houston-texas-100-proxy-vintage-at-brash-brewing-co-akh-allowed)
 
