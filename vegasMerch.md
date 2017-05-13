@@ -20,7 +20,7 @@ White logo on a black Hanes Tagless Tee
 
 Click to order:
 
-[![](https://images.lonestarlhurgoyfs.com/merch/blackShirt.png)](https://teespring.com/black-lhurgoyf-shirts)
+[![](https://images.lonestarlhurgoyfs.com/merch/blackShirt.png)](https://teespring.com/black-lhurgoyf-shirt)
 
 ## Hoodies
 
