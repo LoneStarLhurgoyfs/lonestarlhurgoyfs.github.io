@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Next Vintage Tournament - 5/21/17 - TBD
+title: Next Vintage Tournament - 21 May
 permalink: /nextVintageTournament/
 ---
 
