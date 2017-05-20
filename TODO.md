@@ -5,7 +5,6 @@ Prettification:
 
 Others:
 * Category links
-* Better permalinks
 
 Scripts:
 * New post generation
@@ -13,5 +12,5 @@ Scripts:
 * Move images from Twitter and Imgur to S3
 
 Far:
-* Move whole site to S3
-* Automatically sync to S3
+* ~~Move whole site to S3~~ GitHub Pages - it's Jekyll after all!
+* ~~Automatically sync to S3~~ Auto-sync to GitHub Pages will occur when 
