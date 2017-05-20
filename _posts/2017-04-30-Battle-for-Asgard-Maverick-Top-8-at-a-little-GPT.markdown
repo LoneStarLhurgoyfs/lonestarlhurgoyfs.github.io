@@ -87,7 +87,7 @@ Top 8 Round 1: Arjun on UR Delver: 0-2
 
 (For those interested in visuals, here's a pointless picture of me losing to UR Delver.)
 
-![](http://i1030.photobucket.com/albums/y362/stuartziarnik/IMG_3702_zpsitd4terl.jpg)
+![](https://images.lonestarlhurgoyfs.com/2017-04-30-1.jpg)
 
 Losing so badly in the Top 8 was a little deflating, especially as an Elves player no-sir’d the split so I only won $15. On the upside, I enjoyed the karma of that Elves player losing his match. Likewise, Sean wound up winning the byes, so it was good to see a teammate come away with those. 
 

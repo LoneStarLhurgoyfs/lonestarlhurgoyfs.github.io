@@ -12,21 +12,21 @@ Nine slightly-hungover wizards came out to Asgard this week.
 
 Nick P and Ben K drew in round four to lock down first and second, respectively.  Rose beat her boyfriend Patrick to lock herself into third. Fortunately for him, tiebreakers meant that he just barely made top 4, combining the pair's prizes to take advantage of Asgard's New Year's board game sale.
 
-[Top 4 have been submitted to TCDecks](http://www.tcdecks.net/deck.php?id=21742).  Additionally, [here's a scan of *all* of this week's decks](http://imgur.com/a/1q0G2). (Wouldn't it be cool if all TOs did this?)
+[Top 4 have been submitted to TCDecks](http://www.tcdecks.net/deck.php?id=21742). 
 
-Complete rankings and deck names:
+Placing / Name / Deck (Click for decklist scan)
 
-1. Ben K - Car Shops
-2. Nick P - Alt Oath
-3. Rose - Eldrazi Shops
-4. Patrick B - URw Delver
-5. Sky G - Uba Staxx
-6. Dick Mustang - Scepter+Chant Jank
-7. Sam C (me) - Tiny Robots
-8. Elijah H - Paradoxical Mentor
-9. Tim E - ~~Paradoxical~~ Belcher
+1. Ben K - [Car Shops](https://images.lonestarlhurgoyfs.com/2017-01-01/deck-1.jpg)
+2. Nick P - [Alt Oath](https://images.lonestarlhurgoyfs.com/2017-01-01/deck-2.jpg)
+3. Rose - [Eldrazi Shops](https://images.lonestarlhurgoyfs.com/2017-01-01/deck-3.jpg)
+4. Patrick B - [URw Delver](https://images.lonestarlhurgoyfs.com/2017-01-01/deck-4.jpg)
+5. Sky G - [Uba Staxx](https://images.lonestarlhurgoyfs.com/2017-01-01/deck-5.jpg)
+6. Dick Mustang - [Scepter+Chant Jank](https://images.lonestarlhurgoyfs.com/2017-01-01/deck-6.jpg)
+7. Sam C (me) - [Tiny Robots](https://images.lonestarlhurgoyfs.com/2017-01-01/deck-7.jpg)
+8. Elijah H - [Paradoxical Mentor](https://images.lonestarlhurgoyfs.com/2017-01-01/deck-8.jpg)
+9. Tim E - [Belcher](https://images.lonestarlhurgoyfs.com/2017-01-01/deck-9.jpg)
 
-Most of us will be playing at GP Louisville so if you see a [Lonestar Lhurgoyf shirt](https://pbs.twimg.com/media/C1H-3N5UoAAApNP.jpg) be sure to say hi.
+Most of us will be playing at GP Louisville so if you see a [Lonestar Lhurgoyf shirt](https://images.lonestarlhurgoyfs.com/2017-01-01/lslgShirt.jpg) be sure to say hi.
 
 Next all-proxy Vintage tournament is in two weeks, Sunday 15 January at 1:00 PM.
 

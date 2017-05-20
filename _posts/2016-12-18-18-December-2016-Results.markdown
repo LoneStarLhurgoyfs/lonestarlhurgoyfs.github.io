@@ -6,7 +6,7 @@ categories: Vintage Results AsgardGames
 ---
 We *always* play at least four rounds at Asgard. With only eight people turning out today, that means that the results ended up being quite tight. Split to top four went down to the *second* tie breaker and one more player (me :/ ) was on the same number of wins.
 
-![Results](https://pbs.twimg.com/media/Cz_ZDVrUQAAwhjz.jpg)
+![Results](https://images.lonestarlhurgoyfs.com/old-images/18Dec2016Results.jpg)
 
 A couple people wanted to go watch Star Wars so we split top four. Decks were as follows:
 
