@@ -3,11 +3,6 @@ layout: page
 title: Next Vintage Tournament - 2 July @Rudyard's
 permalink: /nextVintageTournament/
 ---
----
-layout: page
-title: Next Vintage Tournament - 2 July @Rudyard's
-permalink: /nextVintageTournament/
----
 
 Date: July 2nd, 2017  
 Location: [Rudyard's Pub](http://www.rudyardspub.com/wordpress/)  2010 Waugh Dr
