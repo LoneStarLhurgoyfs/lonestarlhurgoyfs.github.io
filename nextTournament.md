@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Next Vintage Tournament - 2 July @Rudyard's
+title: Next Vintage Tournament - 16 July @Rudyard's
 permalink: /nextVintageTournament/
 ---
 
-Date: July 2nd, 2017  
+Date: July 16nd, 2017  
 Location: [Rudyard's Pub](http://www.rudyardspub.com/wordpress/)  2010 Waugh Dr
 Houston, Texas, 77006 [[MAP]](https://goo.gl/maps/mBxMSRjrDAU2)  
 Registration Time: 12:30 PM  
