@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Annoucement: Lone Star Lhurgoyfs Vintage Season 1 Invitational 29 July"
+title:  "Announcement: Lone Star Lhurgoyfs Vintage Season 1 Invitational 29 July"
 date:   2017-07-19 18:32:00 -0500
 categories: Vintage Annoucement Stream
 ---
