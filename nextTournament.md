@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Next Vintage Tournament - 12 August at Brash Brewing Company
+title: Next Vintage Tournament - 13 August at Brash Brewing Company
 permalink: /nextVintageTournament/
 ---
 
@@ -8,7 +8,7 @@ permalink: /nextVintageTournament/
 ![BRASH](https://images.lonestarlhurgoyfs.com/brash/brashman_with_cards.jpg)
 
 
-Date: August 12th, 2017  
+Date: August 13th, 2017  
 Location: [Brash Brewing Company](https://www.facebook.com/Brash-brewing-company-229796680431006/)  508 W Crosstimbers Rd, Houston, TX 77018 [[MAP]](https://goo.gl/maps/JbUmv9nZm1B2)  
 Registration Time: 12:30 PM  
 Event Begins: 1:00 PM  
