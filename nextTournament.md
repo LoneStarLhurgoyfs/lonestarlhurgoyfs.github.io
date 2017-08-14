@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Next Vintage Tournament - 13 August at Brash Brewing Company
+title: Next Vintage Tournament - 27 August at Brash Brewing Company
 permalink: /nextVintageTournament/
 ---
 
@@ -8,7 +8,7 @@ permalink: /nextVintageTournament/
 ![BRASH](https://images.lonestarlhurgoyfs.com/brash/brashman_with_cards.jpg)
 
 
-Date: August 13th, 2017  
+Date: August 27th, 2017  
 Location: [Brash Brewing Company](https://www.facebook.com/Brash-brewing-company-229796680431006/)  508 W Crosstimbers Rd, Houston, TX 77018 [[MAP]](https://goo.gl/maps/JbUmv9nZm1B2)  
 Registration Time: 12:30 PM  
 Event Begins: 1:00 PM  
@@ -31,7 +31,7 @@ Prizes:
 
 Cash: We payout ~80% of entry fee in cash top top 4. The remainder is kept to pay for the prize wall, playmat, and tournament expenses.
 
-Here's what the "prize wall" looks like as of this posting.
+Here's what the "prize wall" looks like as of 13 August.
 
 ![](https://images.lonestarlhurgoyfs.com/prize_pool_5Aug2017.jpg)
 
