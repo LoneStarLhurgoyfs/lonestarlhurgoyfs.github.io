@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "13 August 2017 Proxy Vintage at Brash Brewing Co [6 Players]"
+excerpt: "After one of our group won a local PPTQ, there was a bit of celebration which knocked some of us out of comission. As a result, we only managed six players today. On the plus side, that means we can add a round and play round robin! And that's exactly what we did!"
 date:   2017-08-13 22:26:00 -0500
 categories: Vintage Results BrashBrewingCo
 ---

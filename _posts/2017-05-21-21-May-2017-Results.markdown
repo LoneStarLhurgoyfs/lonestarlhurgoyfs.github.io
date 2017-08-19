@@ -2,6 +2,7 @@
 layout: post
 title:  "21 May 2017 Proxy Vintage at Brash Brewing Co [10 Players]"
 date:   2017-05-21 19:40:00 -0500
+excerpt: "10 players competed in Vintage at Brash today. Check out the results!"
 categories: Vintage Results BrashBrewingCo
 ---
 [Link to announcement post](http://themanadrain.com/topic/1206/5-21-17-houston-tx-100-proxy-vintage-brash-brewing-co)
