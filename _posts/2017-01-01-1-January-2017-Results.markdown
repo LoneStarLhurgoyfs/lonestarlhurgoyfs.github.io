@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "1 January 2017 Proxy Vintage at Asgard Games [9 Players]"
+excerpt: "Nine slightly-hungover wizards came out to Asgard this week. Check out the results!"
 date:   2017-01-01 18:26:00 -0600
 categories: Vintage Results Decklists AsgardGames
 ---

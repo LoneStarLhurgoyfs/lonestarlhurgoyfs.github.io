@@ -2,6 +2,7 @@
 layout: post
 title:  "4 June 2017 Proxy Vintage at Brash Brewing Co [11 Players]"
 date:   2017-06-04 21:19:00 -0500
+excerpt: "Eleven wizards braved flash flood warnings and the traffic of a nearby music festival to play magic as Garfield intended. In a reaction to a recent spate of Workshops in Houston, we saw a big upswing in Oath decks."
 categories: Vintage Results BrashBrewingCo
 ---
 [Link to announcement post](http://themanadrain.com/topic/1234/6-4-17-houston-tx-100-proxy-vintage-brash-brewing-co)

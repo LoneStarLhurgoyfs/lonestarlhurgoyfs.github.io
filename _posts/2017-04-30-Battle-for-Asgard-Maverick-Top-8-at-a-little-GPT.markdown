@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Battle for Asgard: Maverick Top 8 at a little GPT"
+excerpts: "On Saturday, Asgard Games was hosting a Vegas GPT & Win-A-Dual. As I’m keen on byes and always enjoy battling the Houston crowd, I decided I’d make the trip."
 date:   2017-04-30 16:09:00 -0500
 categories: Legacy TournamentReport AsgardGames
 ---

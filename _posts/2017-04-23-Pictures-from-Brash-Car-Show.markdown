@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Pictures from Brash's Motorcycle and Car Show"
+excerpt: "Brash paid host to a motorcycle and classic car show today. Check out the pics!"
 date:   2017-04-23 21:10:01 -0500
 categories: Pictures BrashBrewingCo
 ---

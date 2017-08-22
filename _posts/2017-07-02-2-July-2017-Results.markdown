@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "2 July 2017 Proxy Vintage at Rudyard's Pub [9 Players]"
+excerpt: "9 players competed in Vintage at Rudyard's today. Check out the results!"
 date:   2017-07-02 23:17:00 -0500
 categories: Vintage Results RudyardsPub
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "3 July 2016 Proxy Vintage at Asgard Games [5 Players]"
+excerpt: "We had several players who wanted to come yesterday but were unable to due to their holiday plans. We ended up with six, which feels good for our first try, especially on a holiday weekend. With only six, we ran a five round round-robin, allowing everyone to see all the decks.  Three of our six players had never played Vintage before."
 date:   2016-07-03 16:08:00 -0500
 categories: Vintage Results AsgardGames
 ---

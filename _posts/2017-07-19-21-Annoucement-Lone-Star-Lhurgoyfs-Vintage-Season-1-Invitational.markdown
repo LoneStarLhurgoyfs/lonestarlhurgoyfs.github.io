@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Announcement: Lone Star Lhurgoyfs Vintage Season 1 Invitational 29 July"
+excerpt: "As you may know, for the past few months, the winner of our Vintage tourmanets gets to take home our prize mat. The prize mat is now quite full and we must determine its final owner."
 date:   2017-07-19 18:32:00 -0500
 categories: Vintage Annoucement Stream
 ---
