@@ -2,6 +2,7 @@
 layout: post
 title:  "Invitational Season 1 Decklists now available"
 date:   2017-07-26 17:09:00 -0500
+excerpt: "Last week we announced our first ever invitational. Well now everyone has submitted their decks and we're finally ready to announce!"
 categories: Vintage Annoucement Stream
 ---
 

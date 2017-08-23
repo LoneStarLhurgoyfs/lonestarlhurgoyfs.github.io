@@ -2,6 +2,7 @@
 layout: post
 title:  "GP Vegas Legacy Top 64 Card Breakdown"
 date:   2017-06-20 22:26:00 -0500
+excerpt: "Sam makes a best-guess at the per-card breakdown of the GP Vegas top 64."
 categories: Legacy GPVegas
 ---
 

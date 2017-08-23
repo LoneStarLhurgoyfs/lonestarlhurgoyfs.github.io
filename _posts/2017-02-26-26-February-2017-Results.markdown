@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "26 February 2017 Proxy Vintage at Brash Brewing Co [14 players]"
+excerpt: "We got the largest turnout we've had at any tournament other than Grand Prix side events - a full 14! This included two more new players. And as is tradition, both secured at least one match win in their first ever Vintage event!"
 date:   2017-02-26 19:30:00 -0600
 categories: Vintage Results Decklists Pictures BrashBrewingCo
 ---

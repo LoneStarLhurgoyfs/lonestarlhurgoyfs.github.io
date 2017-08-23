@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "9 April 2017 Proxy Vintage at Brash Brewing Co [13 players]"
+excerpt: "We were one short of tying our record with thirteen players today. That included two players who had never played with us before. We continued to maintain our record of always having a new player win at least one match. For the third tournament in a row, a new player has taken second place!"
 date:   2017-04-09 18:22:00 -0500
 categories: Vintage Results Decklists Pictures BrashBrewingCo
 ---

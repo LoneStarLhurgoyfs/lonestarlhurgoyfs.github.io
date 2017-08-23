@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "28 August 2016 Proxy Vintage at Asgard Games [7 Players]"
+excerpt: "The Texans played this Sunday, so we only managed seven this time around. An eighth called and said he was on his way but never appeared. The standard for <=8 players is three rounds but at the beginning of the third round, we all agreed that we'd rather play more vintage, so we switched to four rounds."
 date:   2016-08-16 19:30:00 -0600
 categories: Vintage Results AsgardGames
 ---
