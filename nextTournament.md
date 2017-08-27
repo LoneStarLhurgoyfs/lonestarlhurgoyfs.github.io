@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Next Vintage Tournament - 27 August at Brash Brewing Company
+title: 8 September - Goyf Roadtrip: Vintage in Austin!
 permalink: /nextVintageTournament/
 ---
 
+Saturday, September 8th, The Houston 'Goyfs make a road trip for our first tournament hosted by our Austin chapter!
 
-![BRASH](https://images.lonestarlhurgoyfs.com/brash/brashman_with_cards.jpg)
-
-
-Date: August 27th, 2017  
-Location: [Brash Brewing Company](https://www.facebook.com/Brash-brewing-company-229796680431006/)  508 W Crosstimbers Rd, Houston, TX 77018 [[MAP]](https://goo.gl/maps/JbUmv9nZm1B2)  
+Date: Saturday September 8, 2017  
+Location: [4th Tap Brewing Cooperative](http://4thtap.coop/home) 10615 Metric Blvd Austin, TX, 78758 [[MAP]](https://goo.gl/maps/Cv7zPb52WtB2)  
 Registration Time: 12:30 PM  
 Event Begins: 1:00 PM  
 Entry Fee: $10 - **EXACT CHANGE ONLY**  
@@ -17,25 +15,23 @@ Payout: TBD, see below.
 Proxy limit: Unlimited proxy  
 Proxy rules: Don't make us need to make a proxy rule!  
 
-**About Brash Brewing**
 
-![](https://images.lonestarlhurgoyfs.com/brash/logo.png)
+As per usual, we will be hosted by a local brewery. This time, it's 4th Tap Brewing Cooperative.
 
-Getting there: [[MAP]](https://goo.gl/maps/JbUmv9nZm1B2) Google Maps places 508 a bit off. If you're heading West on Crosstimbers, be in the right lane. Immediately after some apartments, you'll see a small driveway with a tall wooden fence and then some more apartments. That driveway is where you want to be! [[pic]](https://images.lonestarlhurgoyfs.com/brash/map.png)
+![](https://images.lonestarlhurgoyfs.com/4th_tap/logo.png)
 
-Beers: Be warned - Brash exclusively makes strong beers. If you're going to have more than a couple, you should definitely have a DD or use [Uber](https://uber.com/invite/xpd86)/[Lyft](https://lyft.com/ici/SAM51400)!
+As with Brash, 4th Tap is manned by a bunch of people every bit as nerdy as we are.
 
-Most of the tables at Brash are picnic style tables so a playmat would definitely be a good idea.
+But unlike Brash, we'll be in air conditioning, possibly with a food truck available! (More info as we have it.)
 
 Prizes:
 
-Cash: We payout ~80% of entry fee in cash top top 4. The remainder is kept to pay for the prize wall, playmat, and tournament expenses.
+Cash: We usally payout some amount of entry fee in cash top top 4. The remainder is kept to pay for the prize wall, playmat, and tournament expenses. Check back for further details as we may be sending a large portion of entry fee to Hurricane Harvey recovery efforts.
 
-Here's what the "prize wall" looks like as of 13 August.
+
+We also have a prize wall of cards available to top 4. Here's what the "prize wall" looks like as of 13 August.
 
 ![](https://images.lonestarlhurgoyfs.com/prize_pool_5Aug2017.jpg)
-
-Brash has offered a free [crowler](http://www.bonappetit.com/drinks/beer/article/what-is-a-crowler-beer) of beer to our first place winner.
 
 **At least one player outside of the top 4 will win a door prize at the end of the event, so be sure to stick around and play out all your matches!**
 
@@ -43,7 +39,7 @@ We have a Stanley-Cup-esque playmat. Each tournament, the playmat is be inscribe
 
 ![](https://images.lonestarlhurgoyfs.com/s1_playmat.jpg)
 
-If anyone is planning on coming from out of town, please contact one of the Houston crew if you'd like us to arrange something post-Magic. After most big Legacy events, we generally go out as a group to avail ourselves of the city's excellent food and drink options, and we'd love to show them off to you, too!
+Austinites: A bunch of Houstonians will be coming in from out of town. If you've got recommendations for food and drink, or would like to join us for some, please reach out!
 
 If you or someone you know needs a deck and is too lazy to use a printer or doesn't know what they want, we usually have a few available to borrow. You're welcome to take them home. We only ask that you buy us a new pack of sleeves so we can replace the deck.
 
