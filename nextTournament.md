@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 8 September - Goyf Roadtrip: Vintage in Austin!
+title: "8 September - Goyf Roadtrip: Vintage in Austin!"
 permalink: /nextVintageTournament/
 ---
 
