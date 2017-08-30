@@ -1,16 +1,16 @@
 ---
 layout: page
-title: "8 September - Goyf Roadtrip: Vintage in Austin!"
+title: "9 September - Goyf Roadtrip: Vintage in Austin!"
 permalink: /nextVintageTournament/
 ---
 
-Saturday, September 8th, The Houston 'Goyfs make a road trip for our first tournament hosted by our Austin chapter!
+Saturday, September 9th, The Houston 'Goyfs make a road trip for our first tournament hosted by our Austin chapter!
 
 
 **UPDATE:** In the aftermath of Hurricane Harvey, the entry fee for this tournament has been raised to $25 (and the prize pool along with it). 100% of the entry fees from this tournament will be given to The American Red Cross in support of their relief efforts. A permanent version of this page may be found [here](https://lonestarlhurgoyfs.com/2017-08-30-Goyf-Vintage-in-Austin-Benefitting-Red-Cross)
 
 
-Date: Saturday September 8, 2017  
+Date: Saturday September 9, 2017  
 Location: [4th Tap Brewing Cooperative](http://4thtap.coop/home) 10615 Metric Blvd Austin, TX, 78758 [[MAP]](https://goo.gl/maps/Cv7zPb52WtB2)  
 Registration Time: 12:30 PM  
 Event Begins: 1:00 PM  
