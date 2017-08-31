@@ -8,8 +8,9 @@ excerpt: "This rotation of Goyf Vintage will be held in Austin. 100% of the entr
 Saturday, September 9th, The Houston 'Goyfs make a road trip for our first tournament hosted by our Austin chapter!
 
 
-**UPDATE:** In the aftermath of Hurricane Harvey, the entry fee for this tournament has been raised to $25 (and the prize pool along with it). 100% of the entry fees from this tournament will be given to The American Red Cross in support of their relief efforts.
+**UPDATE 1:** In the aftermath of Hurricane Harvey, the entry fee for this tournament has been raised to $25 (and the prize pool along with it). 100% of the entry fees from this tournament will be given to The American Red Cross in support of their relief efforts.
 
+**UPDATE 2:** As card donations come in, it's hard to keep updated. Sam will be updating this post approximately once per day.
 
 Date: Saturday September 9, 2017  
 Location: [4th Tap Brewing Cooperative](http://4thtap.coop/home) 10615 Metric Blvd Austin, TX, 78758 [[MAP]](https://goo.gl/maps/Cv7zPb52WtB2)  
@@ -31,9 +32,11 @@ But unlike Brash, we'll be in air conditioning, possibly with a food truck avail
 
 Prizes:
 
-These prizes may change but they will *only* get better. If you'd like to donate cash or cards, please reach out to sam@lonestarlhurgoyfs.com .
+These prizes may change but they will *only* get better. This will be split between tournament prizes and a raffle. If you'd like to donate cash or cards, please reach out to sam@lonestarlhurgoyfs.com .
 
 * 1x REV Volcanic Island
+* 1x REV Bayou
+* 1x REV Plateau
 * 4x ISD Snapcaster Mage
 * 1x ISD Altered Liliana of the Veil
 * 1x LEB Hurricane
