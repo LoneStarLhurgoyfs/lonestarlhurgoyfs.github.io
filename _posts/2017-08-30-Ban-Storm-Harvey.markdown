@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Podcast: Ban Storm Havey (Discussing the Vintage Restriction Updates"
+title:  "Podcast: Ban Storm Harvey (Discussing the Vintage Restriction Updates"
 date:   2017-08-30 21:22:00 -0500
 categories: Podcast Vintage
 file: https://audio.lonestarlhurgoyfs.com/Lone_Star_Legacy_8_Ban_Storm_Harvey.mp3
