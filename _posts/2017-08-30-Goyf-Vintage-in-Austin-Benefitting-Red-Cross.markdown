@@ -5,12 +5,14 @@ date:   2017-08-30 10:30:00 -0500
 categories: Vintage 4thTap
 excerpt: "This rotation of Goyf Vintage will be held in Austin. 100% of the entry fees from this tournament will be given to The American Red Cross in support of their relief efforts."
 ---
-Saturday, September 9th, The Houston 'Goyfs make a road trip for our first tournament hosted by our Austin chapter!
+# Saturday, September 9th, The Houston 'Goyfs make a road trip for our first tournament hosted by our Austin chapter!
 
 
 **UPDATE 1:** In the aftermath of Hurricane Harvey, the entry fee for this tournament has been raised to $25 (and the prize pool along with it). 100% of the entry fees from this tournament will be given to The American Red Cross in support of their relief efforts.
 
 **UPDATE 2:** As card donations come in, it's hard to keep updated. Sam will be updating this post approximately once per day.
+
+**UPDATE 3:** Final Top 4/8 prizes are now listed below!
 
 Date: Saturday September 9, 2017  
 Location: [4th Tap Brewing Cooperative](http://4thtap.coop/home) 10615 Metric Blvd Austin, TX, 78758 [[MAP]](https://goo.gl/maps/Cv7zPb52WtB2)  
@@ -30,23 +32,46 @@ As with Brash, 4th Tap is manned by a bunch of people every bit as nerdy as we a
 
 But unlike Brash, we'll be in air conditioning, possibly with a food truck available! (More info as we have it.)
 
-Prizes:
+# Prizes:
 
-These prizes may change but they will *only* get better. This will be split between tournament prizes and a raffle. If you'd like to donate cash or cards, please reach out to sam@lonestarlhurgoyfs.com .
+All of the following have been donated!
 
-* 1x REV Volcanic Island
-* 1x REV Bayou
-* 1x REV Plateau
-* 4x ISD Snapcaster Mage
-* 1x ISD Altered Liliana of the Veil
-* 1x LEB Hurricane
+1st: REV Volcanic Island [[PIC]](https://images.lonestarlhurgoyfs.com/harvey/volcanic_front.jpg)  
+2nd: REV Bayou [[PIC]](https://images.lonestarlhurgoyfs.com/harvey/bayou.jpg)  
+3rd: RUS ISD Signed Liliana of the Veil [[PIC]](https://images.lonestarlhurgoyfs.com/harvey/russian_liliana.jpg)  
+4th: ISD Altered Liliana of the Veil [[PIC]](https://images.lonestarlhurgoyfs.com/harvey/altered_liliana.jpg)  
+5-8th: If we get 24 or more players, fifth through eight will each get an ISD Snapcaster Mage [[PIC]](https://images.lonestarlhurgoyfs.com/harvey/snapcasters.jpg)
 
+## Raffle:
 
-**At least one player outside of the top 4 will win a door prize at the end of the event, so be sure to stick around and play out all your matches!**
+We will be raffling off all other card donations. As of 5 September, those include:
+
+* REV Plateau [[PIC]](https://images.lonestarlhurgoyfs.com/harvey/plateau.jpg)
+* LEB Hurricane [[PIC]](https://images.lonestarlhurgoyfs.com/harvey/hurricane.jpg)
+* A wealth of signed foreign cards from Team Tusk [[PIC]](https://images.lonestarlhurgoyfs.com/harvey/tusk_donation.jpg) (these will be done in matching sets or individually - not as a lot)
+* $50 store credit to Pat's Games
+
+Raffle tickets will be $2 or 15 for $25.
+
+## Participation Prizes
+
+We also have a box of Eternal Masters to give away. Each round random players will be selected to win a pack. All tickets will be put back in the drawing so you could win more than one!
+
+**At least one player outside of the top 4/8 will win a door prize at the end of the event, so be sure to stick around and play out all your matches!**
+
 
 We have a Stanley-Cup-esque playmat. Each tournament, the playmat is be inscribed with the date, location, and winner of the tournament, along with some space for the player to add a doodle. This playmat will be passed each week to the new champion to play with at the next tournament! The finished mat from last season looks like this:
 
 ![](https://images.lonestarlhurgoyfs.com/s1_playmat.jpg)
+
+## Special thanks to the following for their donations:
+
+* Ben Kendrick
+* Patrick Brennan
+* Pat's Games
+* Sam Craven
+* Stuart Ziarnik
+* Sean Obrien and Team Tusk
 
 Austinites: A bunch of Houstonians will be coming in from out of town. If you've got recommendations for food and drink, or would like to join us for some, please reach out!
 
