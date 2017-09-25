@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "24 September 2017 Proxy at Brash Brewing Co [8 Players]"
-excerpt: "8 players competed in Vintage at Rudyard's today. Check out the results!"
+excerpt: "8 players competed in Vintage at Brash Brewing Co today. Check out the results!"
 date:   2017-09-24 23:00:00 -0500
 categories: Vintage Results BrashBrewingCo
 ---
