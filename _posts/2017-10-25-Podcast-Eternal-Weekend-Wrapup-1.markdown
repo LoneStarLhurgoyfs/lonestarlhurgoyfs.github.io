@@ -13,7 +13,7 @@ explicit: "yes" #other option is no
 block: "no" #means is shown in itunes
 ---
 
-Ben, Sam, Stu, and Tim discuss our Saturday Vintage tournament held in Austin for Hurricane Harvey relief.
+Joe, Sam, Stu, and Tim discuss our Saturday Vintage tournament held in Austin for Hurricane Harvey relief.
 
 [Audio link](https://audio.lonestarlhurgoyfs.com/Lone_Star_Legacy_10_Eternal_Weekend_Wrap_Up_1.mp3)
 
