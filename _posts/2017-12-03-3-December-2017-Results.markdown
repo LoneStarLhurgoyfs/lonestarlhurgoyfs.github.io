@@ -15,20 +15,18 @@ categories: Vintage Results BrashBrewingCo
 Standings:
 ![](https://images.lonestarlhurgoyfs.com/2017-12-03/standings.jpg)
 
-Unfortunately, Sam's scanner isn't cooperating today so full decklists aren't available. If Sam figures out the correct incantation, he'll update this with the rest od the decklists.
-
-1. Sean Liu - [French Delver](http://www.tcdecks.net/deck.php?id=25845&iddeck=202974)
-2. Paul Hodgson - [Grixis Thieves](http://www.tcdecks.net/deck.php?id=25845&iddeck=202975)
-3. Sam Craven - [5 Color Staxx](http://www.tcdecks.net/deck.php?id=25845&iddeck=202976)
-4. Ashby Graves - [Merfolk](http://www.tcdecks.net/deck.php?id=25845&iddeck=202977)
-5. Chad Moss - Rector? DAMN NEAR KILLED 'ER!
-6. Tim Everett - Sylvan Mentor
-7. Dan Sprinkle - UW Landstill
-8. Nick Patniyot - MUD Combo
-9. Elijah Henly - InfernOath
-10. Dr. Patrick Brennan - RUG Grow-a-Goyf
-11. Joe Kington - Paradoxical Storm
-12. Ben Kendrick - Baral Storm
+1. Sean Liu - [French Delver](https://images.lonestarlhurgoyfs.com/2017-12-03/deck-1.jpg)
+2. Paul Hodgson - [Grixis Thieves](https://images.lonestarlhurgoyfs.com/2017-12-03/deck-2.jpg)
+3. Sam Craven - [5 Color Staxx](https://images.lonestarlhurgoyfs.com/2017-12-03/deck-3.jpg)
+4. Ashby Graves - [Merfolk](https://images.lonestarlhurgoyfs.com/2017-12-03/deck-4.jpg)
+5. Chad Moss - [Rector? DAMN NEAR KILLED 'ER!](https://images.lonestarlhurgoyfs.com/2017-12-03/deck-5.jpg)
+6. Tim Everett - [Sylvan Mentor](https://images.lonestarlhurgoyfs.com/2017-12-03/deck-6.jpg)
+7. Dan Sprinkle - [UW Landstill](https://images.lonestarlhurgoyfs.com/2017-12-03/deck-7.jpg)
+8. Nick Patniyot - [MUD Combo](https://images.lonestarlhurgoyfs.com/2017-12-03/deck-8.jpg)
+9. Elijah Henly - [InfernOath](https://images.lonestarlhurgoyfs.com/2017-12-03/deck-9.jpg)
+10. Dr. Patrick Brennan - [RUG Grow-a-Goyf](https://images.lonestarlhurgoyfs.com/2017-12-03/deck-10.jpg)
+11. Joe Kington - [Paradoxical Storm](https://images.lonestarlhurgoyfs.com/2017-12-03/deck-11.jpg)
+12. Ben Kendrick - [Baral Storm](https://images.lonestarlhurgoyfs.com/2017-12-03/deck-12.jpg)
 
 Keeping on the play in the blind. What's the line?
 ![](https://images.lonestarlhurgoyfs.com/2017-12-03/1.jpg)
