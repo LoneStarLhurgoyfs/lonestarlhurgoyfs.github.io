@@ -8,66 +8,89 @@ Four Card Blind is a deck construction game using [these rules](https://www.redd
 
 | Last updated |
 |-|
-| Round 4 | 5 December 2017 |
+| Round 5 | 7 December 2017 |
 
 # Scoreboard
 
 | Rank | Points | Name | Rounds Played |
 |-|-|-|-|
-| 1 | 85 | Ben Kendrick | 4 |
-| 2 | 68 | Joe Kington | 3 |
-| 3 | 64 | Arjune Bose | 4 |
-| 4 | 45 | Patrick Brennan | 3 |
-| 5 | 44 | Elijah Henly | 2 |
-| 6 | 38 | Sam Craven | 4 |
-| 7 | 36 | Chad Moss | 3 |
-| T-8 | 14 | David London | 1 |
-| T-8 | 14 | Stephen Bacala | 2 |
+| 1 | 103 | Ben Kendrick | 5 |
+| 2 | 86 | Joe Kington | 4 |
+| 3 | 80 | Elijah Henly | 3 |
+| 4 | 79 | Arjune Bose | 5 |
+| 5 | 75 | Patrick Brennan | 4 |
+| 6 | 53 | Sam Craven | 5 |
+| 7 | 50 | David London | 2 |
+| 8 | 36 | Chad Moss | 4 |
+| 9 | 14 | Stephen Bacala | 2 |
 
 # Banned List
 
 | Card | Round Banned | Banned By |
 |-|-|-|
+| Balance | 5 | David London |
 | Black Lotus | 1 | Joe Kington |
 | Bitterblossom | 1 | Joe Kington |
 | Burning Inquiry | 4 | Joe Kington |
 | Cabal Therapy | 1 | Joe Kington |
 | Chancellor of the  Annex | 1 | Joe Kington |
 | City of Traitors | 3 | Chad Moss |
+| Crystal Vein | 5 | David London |
 | Dryad Arbor | 2 | Ben Kendrick |
 | Ensnaring Bridge | 3 | Chad Moss |
 | Foil | 4 | Joe Kington |
 | Force of Will | 2 | Ben Kendrick |
 | Memnite | 2 | Ben Kendrick |
+| Mox Pearl | 5 | David London |
 | Mox Sapphire | 3 | Chad Moss |
 | Nether Spirit | 4 | Joe Kington |
 | Prodigal Sorcerer | 3 | Chad Moss |
 | Slippery Bogle | 2 | Ben Kendrick|
+| The Rack | 5 | David London |
 | Volcanic Island | 4 | Joe Kington |
-
-
 
 # Results and decks
 
 **Bold text** indicates that the card has since been banned
 
+### Round 5
+
+#### Highlights
+
+* **Elijah Henly** , for getting away with playing a banned card. (It actually had no effect on results. Any sol land would've worked in this slot, as **David London** showed.)
+* **Balance** finally gets the axe!
+* **Ben Kendrick** plays a fair deck.
+* **Chad Moss** becomes the first person to get 0 points in a round.
+
+
+| Rank | Points | Player | Card 1 | Card 2 | Card 3 | Card 4 |
+| T-1 | 36 | David London | **Balance** | **Crystal Vein** | **Mox Pearl** | **The Rack** |
+| T-1 | 36 | Elijah Henly | **Balance** | **City of Traitors** | **Mox Pearl** | **The Rack** |
+| 2 | 30 | Patrick Brennan | Gitaxian Probe | Island | Laboratory Maniac | Gitaxian Probe |
+| T-3 | 18| Ben Kendrick | Goblin Guide | Jackal Pup | Mountain | Pyrokinesis |
+| T-3 | 18 | Joe Kington | Laboratory Maniac | Leyline of Anticipation | Lotus Petal | Mana Crypt |
+| T-4 | 15 | Arjune Bose | Dark Depths | Strip Mine | Urborg, Tomb of Yawgmoth | Vampire Hexmage |
+| T-4 | 15 | Sam Craven | Dark Depths | Dark Ritual | Mox Jet | Vampire Hexmage |
+| 5 | 0 | Chad Moss | Peat Bog | Shrieking Affliction | **The Rack** | Tormod's Crypt |
+
+
 ### Round 4
 
 #### Highlights
 
-* **Joe Kington** becomes the first player to win twice *and* the first player to win twice in a row.
+* **Joe Kington** becomes the first player to win twice.
 * Seriously... the decks are their own highlight.
-* Sam for running Back a version of a previous winning deck, and then getting last.
+* **Sam Craven** for running Back a version of a previous winning deck, and then getting last.
 
 | Rank | Points | Player | Card 1 | Card 2 | Card 3 | Card 4 |
 |-|-|-|-|-|-|-|
 | 1 | 33 | Joe Kington | **Burning Inquiry** | **Foil** | **Nether Spirit** | **Volcanic Island** |
-| T-2 | 30 | Ben Kendrick | Carnophage | Swamp | The Rack | Thoughtseize |
-| T-2 | 30 | Elijah Henly| Ancient Tomb | Gitaxian Probe | Laboratory Maniac | Lotus Petal|
+| T-2 | 30 | Ben Kendrick | Carnophage | Swamp | **The Rack** | Thoughtseize |
+| T-2 | 30 | Elijah Henly | Ancient Tomb | Gitaxian Probe | Laboratory Maniac | Lotus Petal|
 | 3 | 21 | Arjune Bose | Island | Laboratory Maniac | Lotus Petal | Rite of Flame |
 | 4 | 19 | Patrick Brennan | Mishra's Factory | Mox Emerald | Sphere of Resistance | The Tabernacle at Pendrel Vale |
 | 5 | 14 | David London | Donate | Island | Mana Crypt | Trinisphere |
-| 6 | 8 | Chad Moss | Peat Bog | Shrieking Affliction | The Rack | Tormod's Crypt |
+| 6 | 8 | Chad Moss | Peat Bog | Shrieking Affliction | **The Rack** | Tormod's Crypt |
 | 7 | 2 | Sam Craven | Boros Garrison | Plains | Prodigal Pyromancer | Ghostly Prison |
 
 ### Round 3
