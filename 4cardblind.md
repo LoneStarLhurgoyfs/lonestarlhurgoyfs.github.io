@@ -8,21 +8,21 @@ Four Card Blind is a deck construction game using [these rules](https://www.redd
 
 | Last updated |
 |-|
-| Round 5 | 7 December 2017 |
+| Round 6 | 8 December 2017 |
 
 # Scoreboard
 
 | Rank | Points | Name | Rounds Played |
 |-|-|-|-|
-| 1 | 103 | Ben Kendrick | 5 |
-| 2 | 86 | Joe Kington | 4 |
-| 3 | 80 | Elijah Henly | 3 |
-| 4 | 79 | Arjune Bose | 5 |
-| 5 | 75 | Patrick Brennan | 4 |
-| 6 | 53 | Sam Craven | 5 |
-| 7 | 50 | David London | 2 |
-| 8 | 36 | Chad Moss | 4 |
-| 9 | 14 | Stephen Bacala | 2 |
+| 1 | 124 | Ben Kendrick | 6 |
+| 2 | 115 | Joe Kington | 5 |
+| 3 | 102 | Elijah Henly | 4 |
+| 4 | 98 | Arjune Bose | 6 |
+| 5 | 92 | Patrick Brennan | 5 |
+| 6 | 71 | David London | 3 |
+| 7 | 62 | Sam Craven | 6 |
+| 8 | 45 | Chad Moss | 5 |
+| 9 | 16 | Stephen Bacala | 2 |
 
 # Banned List
 
@@ -40,18 +40,38 @@ Four Card Blind is a deck construction game using [these rules](https://www.redd
 | Ensnaring Bridge | 3 | Chad Moss |
 | Foil | 4 | Joe Kington |
 | Force of Will | 2 | Ben Kendrick |
+| Karakas | 6 | Joe Kington |
 | Memnite | 2 | Ben Kendrick |
+| Mox Jet | 6 | Joe Kington |
 | Mox Pearl | 5 | David London |
 | Mox Sapphire | 3 | Chad Moss |
 | Nether Spirit | 4 | Joe Kington |
+| Path to Exile | 6 | Joe Kington |
 | Prodigal Sorcerer | 3 | Chad Moss |
 | Slippery Bogle | 2 | Ben Kendrick|
 | The Rack | 5 | David London |
+| Tidehollow Sculler | 6 | Joe Kington |
 | Volcanic Island | 4 | Joe Kington |
 
 # Results and decks
 
 **Bold text** indicates that the card has since been banned
+
+#### Highlights
+
+* ***Joe Kington** wins his third round.
+
+| Rank | Points | Player | Card 1 | Card 2 | Card 3 | Card 4 |
+|-|-|-|-|-|-|-|
+| 1 | 28 | Joe Kington | **Karakas** | **Mox Jet** | **Path to Exile** | **Tidehollow Sculler** |
+| 2 | 23 | Ben Kendrick | Call the Bloodline | **Mox Jet** | Squee, Goblin Nabob | Wasteland |
+| 3 | 22| Elijah Henly | Dark Depths | Thoughtseize | Urborg, Tomb of Yawgmoth | Vampire Hexmage |
+| 4 | 21 | David London | Bayou | Innocent Blood | Scythe Tiger | Thoughtseize |
+| 5 | 19 | Arjune Bose | Ancient Tomb | Blood Moon | Goblin Guide | Simian Spirit Guide|
+| 6 | 17 | Patrick Brennan | Foundry Inspector | Mishra's Workshop | Sol Ring | Sphere of Resistance |
+| T-7 | 9 | Chad Moss | Innocent Blood | **Mox Jet** | Shrieking Affliction | Tormod's Crypt|
+| T-7 | 9 | Sam Craven | Cabal Therapy | Peat Bog | Platinum Angel | Reanimate |
+
 
 ### Round 5
 
@@ -64,13 +84,14 @@ Four Card Blind is a deck construction game using [these rules](https://www.redd
 
 
 | Rank | Points | Player | Card 1 | Card 2 | Card 3 | Card 4 |
+|-|-|-|-|-|-|-|
 | T-1 | 36 | David London | **Balance** | **Crystal Vein** | **Mox Pearl** | **The Rack** |
 | T-1 | 36 | Elijah Henly | **Balance** | **City of Traitors** | **Mox Pearl** | **The Rack** |
 | 2 | 30 | Patrick Brennan | Gitaxian Probe | Island | Laboratory Maniac | Gitaxian Probe |
 | T-3 | 18| Ben Kendrick | Goblin Guide | Jackal Pup | Mountain | Pyrokinesis |
 | T-3 | 18 | Joe Kington | Laboratory Maniac | Leyline of Anticipation | Lotus Petal | Mana Crypt |
 | T-4 | 15 | Arjune Bose | Dark Depths | Strip Mine | Urborg, Tomb of Yawgmoth | Vampire Hexmage |
-| T-4 | 15 | Sam Craven | Dark Depths | Dark Ritual | Mox Jet | Vampire Hexmage |
+| T-4 | 15 | Sam Craven | Dark Depths | Dark Ritual | **Mox Jet** | Vampire Hexmage |
 | 5 | 0 | Chad Moss | Peat Bog | Shrieking Affliction | **The Rack** | Tormod's Crypt |
 
 
