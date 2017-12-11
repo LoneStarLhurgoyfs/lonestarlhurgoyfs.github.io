@@ -8,20 +8,20 @@ Four Card Blind is a deck construction game using [these rules](https://www.redd
 
 | Last updated |
 |-|
-| Round 6 | 8 December 2017 |
+| Round 7 | 10 December 2017 |
 
 # Scoreboard
 
 | Rank | Points | Name | Rounds Played |
 |-|-|-|-|
-| 1 | 124 | Ben Kendrick | 6 |
-| 2 | 115 | Joe Kington | 5 |
-| 3 | 102 | Elijah Henly | 4 |
-| 4 | 98 | Arjune Bose | 6 |
-| 5 | 92 | Patrick Brennan | 5 |
-| 6 | 71 | David London | 3 |
-| 7 | 62 | Sam Craven | 6 |
-| 8 | 45 | Chad Moss | 5 |
+| 1 | 140 | Ben Kendrick | 7 |
+| 2 | 124 | Elijah Henly | 5 |
+| 3 | 115 | Joe Kington | 5 |
+| 4 | 113 | Patrick Brennan | 6 |
+| 5 | 98 | Arjune Bose | 6 |
+| 6 | 89 | David London | 4 |
+| 7 | 74 | Sam Craven | 7 |
+| 8 | 45 | Chad Moss | 6 |
 | 9 | 16 | Stephen Bacala | 2 |
 
 # Banned List
@@ -41,15 +41,19 @@ Four Card Blind is a deck construction game using [these rules](https://www.redd
 | Foil | 4 | Joe Kington |
 | Force of Will | 2 | Ben Kendrick |
 | Karakas | 6 | Joe Kington |
+| Lodestone Golem | 7 | Elijah Henly |
 | Memnite | 2 | Ben Kendrick |
+| Mishra's Workshop | 7 | Elijah Henly |
 | Mox Jet | 6 | Joe Kington |
 | Mox Pearl | 5 | David London |
+| Mox Ruby | 7 | Elijah Henly |
 | Mox Sapphire | 3 | Chad Moss |
 | Nether Spirit | 4 | Joe Kington |
 | Path to Exile | 6 | Joe Kington |
 | Prodigal Sorcerer | 3 | Chad Moss |
 | Slippery Bogle | 2 | Ben Kendrick|
 | The Rack | 5 | David London |
+| Trinisphere | 7 | Elijah Henly |
 | Tidehollow Sculler | 6 | Joe Kington |
 | Volcanic Island | 4 | Joe Kington |
 
@@ -57,9 +61,29 @@ Four Card Blind is a deck construction game using [these rules](https://www.redd
 
 **Bold text** indicates that the card has since been banned
 
+### Round 7
+
 #### Highlights
 
-* ***Joe Kington** wins his third round.
+* **Chad Moss** becomes the second player to play a deck with no win condition.
+* **Mishra's Workshop** is finally gone.
+* We're down to one legal Mox.
+
+| Rank | Points | Player | Card 1 | Card 2 | Card 3 | Card 4 |
+|-|-|-|-|-|-|-|
+| 1 | 22 | Elijah Henly | **Lodestone Golem** | **Mishra's Workshop** | **Mox Ruby** | **Trinisphere** |
+| 2 | 21 | Patrick Brennan | Gitaxian Probe | Island | Mana Crypt | Laboratory Maniac |
+| 3 | 18 | David London | Ancint Tomb | Chalice of the Void | Mental Misstep | Phyrexian Revoker |
+| 4 | 16 | Ben Kendrick | Dark Ritual | Liliana, the Last Hope | Swamp | Thoughtseize |
+| 5 | 12 | Sam Craven | Ancient Tomb | Island | Show and Tell | Sphinx of the Steel Wind |
+| 6 | 0 | Chad Moss| Helm of Obedience | Leyline of the Void | Mana Crypt | **Mishra's Workshop** |
+
+
+### Round 6
+
+#### Highlights
+
+* **Joe Kington** wins his third round.
 
 | Rank | Points | Player | Card 1 | Card 2 | Card 3 | Card 4 |
 |-|-|-|-|-|-|-|
@@ -68,7 +92,7 @@ Four Card Blind is a deck construction game using [these rules](https://www.redd
 | 3 | 22| Elijah Henly | Dark Depths | Thoughtseize | Urborg, Tomb of Yawgmoth | Vampire Hexmage |
 | 4 | 21 | David London | Bayou | Innocent Blood | Scythe Tiger | Thoughtseize |
 | 5 | 19 | Arjune Bose | Ancient Tomb | Blood Moon | Goblin Guide | Simian Spirit Guide|
-| 6 | 17 | Patrick Brennan | Foundry Inspector | Mishra's Workshop | Sol Ring | Sphere of Resistance |
+| 6 | 17 | Patrick Brennan | Foundry Inspector | **Mishra's Workshop** | Sol Ring | Sphere of Resistance |
 | T-7 | 9 | Chad Moss | Innocent Blood | **Mox Jet** | Shrieking Affliction | Tormod's Crypt|
 | T-7 | 9 | Sam Craven | Cabal Therapy | Peat Bog | Platinum Angel | Reanimate |
 
@@ -110,7 +134,7 @@ Four Card Blind is a deck construction game using [these rules](https://www.redd
 | T-2 | 30 | Elijah Henly | Ancient Tomb | Gitaxian Probe | Laboratory Maniac | Lotus Petal|
 | 3 | 21 | Arjune Bose | Island | Laboratory Maniac | Lotus Petal | Rite of Flame |
 | 4 | 19 | Patrick Brennan | Mishra's Factory | Mox Emerald | Sphere of Resistance | The Tabernacle at Pendrel Vale |
-| 5 | 14 | David London | Donate | Island | Mana Crypt | Trinisphere |
+| 5 | 14 | David London | Donate | Island | Mana Crypt | **Trinisphere** |
 | 6 | 8 | Chad Moss | Peat Bog | Shrieking Affliction | **The Rack** | Tormod's Crypt |
 | 7 | 2 | Sam Craven | Boros Garrison | Plains | Prodigal Pyromancer | Ghostly Prison |
 
@@ -145,7 +169,7 @@ Four Card Blind is a deck construction game using [these rules](https://www.redd
 | 2 | 23 | Arjune Bose | **Foil** | **Memnite** | Thoughtseize | Underground Sea |
 | 3 | 20 | Joe Kington | Cavern of Souls | Gitaxian Probe | Laboratory Maniac | Mana Crypt |
 | 4 | 10 | Stephen Bacala | Daze | Lotus Petal | Thalia, Guadian of Thraben | Tundra |
-| 5 | 8 | Chad Moss | **Ensnaring Bridge** | Greater Gargadon | Mishra's Workshop | Mox Ruby |
+| 5 | 8 | Chad Moss | **Ensnaring Bridge** | Greater Gargadon | **Mishra's Workshop** | **Mox Ruby** |
 | 6 | 8 | Patrick Brennan | Crucible of Worlds | Dunes of the Dead | Mana Vault | Zuran Orb |
 | 7 | 8 | Sam Craven | **Force of Will** | Mental Misstep | Misdirection | Ornithopter |
 
@@ -159,7 +183,7 @@ Four Card Blind is a deck construction game using [these rules](https://www.redd
 | Rank | Points | Player | Card 1 | Card 2 | Card 3 | Card 4 |
 |-|-|-|-|-|-|-|
 | 1 | 15 | Joe Kington | **Black Lotus** | **Bitterblossom** | **Cabal Therapy** | **Chancellor of the Annex** |
-| T-2 | 14 | Sam Craven | Lodestone Golem | Mishra's Factory | Mishra's Workshop | Mox Emerald |
+| T-2 | 14 | Sam Craven | **Lodestone Golem** | Mishra's Factory | **Mishra's Workshop** | Mox Emerald |
 | T-2 | 14 | Arjune Bose | **Chancellor of the Annex** | **Force of Will** | Fountain of Cho | Gitaxian Probe |
 | 3 | 9 | Ben Kendrick | Badlands | **Burning Inquiry** | **Nether Spirit** | Thoughtseize |
 | 4 | 6 | Stephen Bacala | Caven of Souls | Ramunap Excavator | Strip Mine | Wasteland |
