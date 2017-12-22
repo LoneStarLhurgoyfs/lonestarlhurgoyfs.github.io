@@ -2,8 +2,7 @@
 layout: post
 title:  "Announcement: Changes to Vintage scheduling in 2018"
 excerpt: "We're switching Houston Vintage to the first and third Sundays of each month. We've also got the next Austin tournament scheduled!"
-date:   2017-12-22 10:05:00 -05termin
-00
+date:   2017-12-22 10:05:00 -0500
 categories: Vintage Announcement
 ---
 
