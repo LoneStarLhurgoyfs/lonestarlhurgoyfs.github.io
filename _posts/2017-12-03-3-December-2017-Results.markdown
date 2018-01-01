@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3 December 2017 Proxy at Brash Brewing Co [12 Players]"
+title:  "3 December 2017 Proxy Vintage at Brash Brewing Co [12 Players]"
 excerpt: "12 players competed in Vintage at Brash Brewing Co today. Check out the results!"
 date:   2017-12-19 18:30:00 -0600
 categories: Vintage Results BrashBrewingCo
