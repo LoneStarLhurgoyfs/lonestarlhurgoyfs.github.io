@@ -18,15 +18,13 @@ title: Lone Star Lhurgoyfs
 description: > # this means to ignore newlines until "baseurl:"
  Lonestar Lhurgoyfs - A group of Texas-based Magic players focusing on beer, Vintage, and Legacy, in that order.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://LoneStarLhurgoyfs.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TexasLhurgoyfs
 #github_username:  jekyll
 
 # Build settings
 markdown: kramdown
 #theme: minima
-gems:
-  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -35,7 +33,10 @@ subtitle: "Here for the beer."
 url: https://lonestarlhurgoyfs.com
 lang: en
 author: Lone Star Lhurgoyfs
-copyright:      "&#x2117; &amp; &#xA9; 2017"
+copyright:      "&#x2117; &amp; &#xA9; 2017-2018"
 google_analytics: UA-98795844-1
 
 permalink: :year-:month-:day-:title/
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed

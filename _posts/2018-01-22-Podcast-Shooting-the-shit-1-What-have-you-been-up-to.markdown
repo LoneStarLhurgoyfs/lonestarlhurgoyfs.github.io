@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Podcast:"
+title:  "Podcast: Shooting the Shit 1: What have you been up to?"
 date:   2018-01-22 18:30:00 -0500
 categories: Podcast Legacy 
 file: https://audio.lonestarlhurgoyfs.com/Lone_Star_Legacy_12_Shooting_the_shit_1_What_have_you_been_up_to.mp3

@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Next Vintage Tournament - 18 February at Brash Brewing Company"
-permalink: /nextVintageTournament/
+title: "HOU Vintage Feb 18"
+permalink: /HOUVintage/
+redirect_from: "/nextVintageTournament/"
 ---
 
 ![BRASH](https://images.lonestarlhurgoyfs.com/brash/brashman_with_cards.jpg)
