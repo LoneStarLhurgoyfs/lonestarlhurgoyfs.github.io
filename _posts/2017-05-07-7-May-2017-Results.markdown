@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "7 May 2017 Proxy Vintage at Brash Brewing Co [11 Players]"
+excerpt: "11 players competed in Vintage at Brash today including a group of guys all the way from Lafayette, LA! Check out the results!"
 date:   2017-05-07 22:21:00 -0500
 categories: Vintage Results BrashBrewingCo
 ---

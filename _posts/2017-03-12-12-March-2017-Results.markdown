@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "12 March 2017 Proxy Vintage at Brash Brewing Co [9 players]"
+excerpt: "With SXSW starting up to the West and Star City Games hosting a tournament to the North, our attendance was down for this tournament. We continued to grow the community with two newcomers. As is tradition, both managed to win at least one match. In fact, one finished in second place!"
 date:   2017-03-12 22:47:00 -0600
 categories: Vintage Results Decklists Pictures BrashBrewingCo
 ---

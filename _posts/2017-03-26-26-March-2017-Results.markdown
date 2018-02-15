@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "26 March 2017 Proxy Vintage at Brash Brewing Co [8 players]"
+excerpt: "This morning, I jumped in my car, and made the drive over to Brash Brewing Co. I was met by seven other Vintage players, all hungry for a shot at getting their name on our wrestling belt playmat. Also, all thirsty for exceedingly strong beers."
 date:   2017-03-26 23:09:00 -0500
 categories: Vintage Results Decklists Pictures BrashBrewingCo
 ---

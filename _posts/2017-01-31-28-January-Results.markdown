@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "28 January 2017 Proxy Vintage at Brash Brewing Co [9 players]"
+excerpt: "Eight Vintage players made the journey to Asgard this week to battle in Magic's most ancient format, including two new faces! We look forward to next tournament when we can hopefully get all the regulars and these new people in for a more competitive tournament."
 date:   2017-01-31 15:27:00 -0600
 categories: Vintage Results Decklists AsgardGames
 ---
