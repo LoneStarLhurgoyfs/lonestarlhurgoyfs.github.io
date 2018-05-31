@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "24 February 2018 Proxy Vintage at Austin Beer Works [17 Players]"
-excerpt: "PLAYERCOUNT players competed in Vintage at Austin Beer Works today. Check out the results!"
+excerpt: "17 players competed in Vintage at Austin Beer Works today. Check out the results!"
 date:   2018-02-26 21:00:00 -0500
 categories: Vintage Results RomancingTheStones AustinBeerWorks
 ---
