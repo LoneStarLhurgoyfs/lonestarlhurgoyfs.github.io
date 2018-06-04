@@ -1,15 +1,16 @@
 ---
 layout: page
-title: "HOU Vintage June 3"
+title: "HOU Vintage June 17"
 permalink: /HOUVintage/
 redirect_from: "/nextVintageTournament/"
 ---
 ![](https://pbs.twimg.com/media/DDYHUQ1VoAAGzJA.png)
+
 *Rudyard Kipling, actual photo.*
 
 # Quick Facts:
 
-Date: June 3, 2018  
+Date: June 17, 2018  
 Location: [Rudyard's Pub](http://www.rudyardspub.com/wordpress/)  2010 Waugh Dr
 Houston, Texas, 77006 [[MAP]](https://goo.gl/maps/mBxMSRjrDAU2)  
 Registration Time: 12:30 PM  
