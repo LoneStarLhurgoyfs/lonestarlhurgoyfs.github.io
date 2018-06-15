@@ -17,4 +17,4 @@ Ben, Sam, and Stu shoot the shit and discuss what decks they've been playing rec
 
 [Audio link](https://audio.lonestarlhurgoyfs.com/Lone_Star_Legacy_12_Shooting_the_shit_1_What_have_you_been_up_to.mp3)
 
-[YouTube video stream](https://www.youtube.com/watch?v=aRiCfJAzupI)
+{% include youtubePlayer.html id='aRiCfJAzupI' %}

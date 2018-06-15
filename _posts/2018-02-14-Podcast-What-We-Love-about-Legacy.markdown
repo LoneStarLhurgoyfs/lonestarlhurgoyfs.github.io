@@ -15,8 +15,10 @@ block: "no" #means is shown in itunes
 
 Joe, Mike, Sean, and Tim Recall building a grassroots proxy Vintage scene and Ponder what it is they love about the Legacy format.
 
+{% include audio_player.html mp3=page.file %}
+
 [Audio link](https://audio.lonestarlhurgoyfs.com/Lone_Star_Legacy_13_What_We_Love_about_Legacy.mp3)
 
-[YouTube video stream](https://www.youtube.com/watch?v=knO7E2poow4)
+{% include youtubePlayer.html id='knO7E2poow4' %}
 
 
