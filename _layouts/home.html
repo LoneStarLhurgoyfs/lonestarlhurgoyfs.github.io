@@ -17,6 +17,9 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
+        {% if post.author %}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">By {{ post.author }}</span></span>
+      {% endif %}
         <h4>
           {%for category in post.categories %}
             {{category}}
