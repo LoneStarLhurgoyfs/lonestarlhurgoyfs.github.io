@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "HOU Vintage June 17"
+title: "HOU Vintage July 1"
 permalink: /HOUVintage/
 redirect_from: "/nextVintageTournament/"
 ---
@@ -10,7 +10,7 @@ redirect_from: "/nextVintageTournament/"
 
 # Quick Facts:
 
-Date: June 17, 2018  
+Date: July 1, 2018  
 Location: [Rudyard's Pub](http://www.rudyardspub.com/wordpress/)  2010 Waugh Dr
 Houston, Texas, 77006 [[MAP]](https://goo.gl/maps/mBxMSRjrDAU2)  
 Registration Time: 12:30 PM  
