@@ -25,6 +25,6 @@ As mentioned above, for this event we've raised our entry fee to $20. As per pre
  
 As per tradtion, we've got a playmat for first place. Thsi time, it's Miss 1993 herself!
 
-![](https://images.lonestarlhurgoyfs.com/2018/07/07/poster.jpg)
+![](https://images.lonestarlhurgoyfs.com/2018/07/07/playmat.jpg)
 
 We'll be returning to Vintage in August - details coming soon!
