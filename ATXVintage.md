@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Next ATX Vintage TBD"
+title: "Next ATX Vintage August 18"
 permalink: /ATXVintage/
 ---
 
-Next ATX Vintage TBD. Stay tuned for more detauls!
+Next ATX Vintage is August 18. Stay tuned for more details!
