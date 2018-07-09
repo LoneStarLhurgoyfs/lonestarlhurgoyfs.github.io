@@ -14,12 +14,13 @@ do something special. Ultimately, we decided on two things:
 
 After some back-and-forth, we landed on using [Eternal Central’s 93/94 rules](http://www.eternalcentral.com/9394rules/). As an organizing committee we had mixed feelings about unrestricted Strip Mine, but as EC is the most common ruleset in the US, we thought it was best to follow their lead. Several days before the event we realized we’d scheduled it on the same day as the Core 2019 prerelease, and a Legacy 1K in Dallas! We were a bit nervous our turnout would suffer, but fortunately, our brethren in San Antonio and Houston came out in force, and we still wound up with 24 players. In the end, Rob Connolly took down the event on Mono Black Aggro, earning himself a Serra Angel playmat and a spot in the year-end Festival of Friendship invitational!
 
-**Pics coming soon!**
-
 Thanks everyone for coming out and playing some Old School with us! [We’ll be back in August with
 more Vintage](https://lonestarlhurgoyfs.com/ATXVintage/).
 
 [Link to annoucement post](http://lonestarlhurgoyfs.com/2018-06-27-Announcing-Old-School-July-7-Austin/)
+
+Standings before cut to top 4:
+![](https://images.lonestarlhurgoyfs.com/2018-07-07/standings.jpg)
 
 1. Rob Connolly - [Mono Black](https://images.lonestarlhurgoyfs.com/2018-07-07/deck-1.jpg)
 2. Stuart Ziarnik - [Goblins](https://images.lonestarlhurgoyfs.com/2018-07-07/deck-2.jpg)
@@ -45,3 +46,34 @@ more Vintage](https://lonestarlhurgoyfs.com/ATXVintage/).
 22. Tim Everett - [Balls Stompy](https://images.lonestarlhurgoyfs.com/2018-07-07/deck-22.jpg)
 23. Andrew Schulte - [RUG Zoo](https://images.lonestarlhurgoyfs.com/2018-07-07/deck-23.jpg)
 24. Frank Surgis - [RUG Midrange](https://images.lonestarlhurgoyfs.com/2018-07-07/deck-24.jpg)
+
+Pics:
+
+Our traditional Old School prize pool:
+![](https://images.lonestarlhurgoyfs.com/2018-07-07/1.jpg)
+
+Our awesome venue. Thanks again to Vigilante!
+![](https://images.lonestarlhurgoyfs.com/2018-07-07/2.jpg)
+
+Our top 4:
+![](https://images.lonestarlhurgoyfs.com/2018-07-07/3.jpg)
+
+And our winner!
+![](https://images.lonestarlhurgoyfs.com/2018-07-07/4.jpg)
+
+Deck pics:
+
+Stu's second place Goblin's deck:
+![](https://images.lonestarlhurgoyfs.com/2018-07-07/5.jpg)
+
+Naij's fourth place Counterburn deck:
+![](https://images.lonestarlhurgoyfs.com/2018-07-07/6.jpg)
+
+Bobby's seventh place Mono Black deck:
+![](https://images.lonestarlhurgoyfs.com/2018-07-07/7.jpg)
+
+Doug's seventeenth place Turbo Fog deck:
+![](https://images.lonestarlhurgoyfs.com/2018-07-07/8.jpg)
+
+Joe's eighteenth place Pink Weenie deck"
+![](https://images.lonestarlhurgoyfs.com/2018-07-07/9.jpg)
