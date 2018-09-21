@@ -17,4 +17,8 @@ championship for 1st Place
 that you’re just here and playing. As such, we’re not instituting any proxy rules or guidelines.   
 **Decklists:** We will be collecting decklists to post online after the event.
 
+This event's playmat will be Dakkon Blackblade!
+
+![](https://images.lonestarlhurgoyfs.com/2018/09/29/playmat.jpg)
+
 Want to know what the competition looks like? Check out the lists from [our last tournament](https://lonestarlhurgoyfs.com/2018-09-05-25-August-2018-Results/)
