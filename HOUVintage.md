@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "HOU Vintage Sep 16"
+title: "HOU Vintage Oct 7"
 permalink: /HOUVintage/
 redirect_from: "/nextVintageTournament/"
 ---
@@ -9,7 +9,7 @@ redirect_from: "/nextVintageTournament/"
 
 This Sunday, The Lone Star Lhurgoyfs make their triumphant return to the 666th most metal brewery in Houston: Brash Brewing Company!
 
-Date: Sep 16, 2018  
+Date: Oct 7, 2018  
 Location: [Brash Brewing Company](https://www.facebook.com/Brash-brewing-company-229796680431006/)  508 W Crosstimbers Rd, Houston, TX 77018 [[MAP]](https://goo.gl/maps/JbUmv9nZm1B2)  
 Registration Time: 12:30 PM  
 Event Begins: 1:00 PM  
