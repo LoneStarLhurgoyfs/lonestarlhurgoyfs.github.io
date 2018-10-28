@@ -7,8 +7,8 @@ file: https://audio.lonestarlhurgoyfs.com/Lone_Star_Legacy_18_Eternal_Weekend_Pr
 file_itunes: https://audio.lonestarlhurgoyfs.com/Lone_Star_Legacy_18_Eternal_Weekend_Prep_2018.mp3
 excerpt: "The Goyfs discuss their planning for the upcoming Eternal Weekend 2018." 
 summary: "The Goyfs discuss their planning for the upcoming Eternal Weekend 2018."
-duration: "91:15" #audio length in min
-length: "35331807" #filesize in byte
+duration: "88:27" #audio length in min
+length: "42293788" #filesize in byte
 explicit: "yes" #other option is no
 block: "no" #means is shown in itunes
 ---
