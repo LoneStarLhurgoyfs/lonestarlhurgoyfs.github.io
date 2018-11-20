@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "ATX Vintage Nov 17"
+title: "Next ATX Vintage TBD"
 permalink: /ATXVintage/
 ---
 
-The next Austing Vintage tournament will be November 17th at 4th Tap. Stay tuned for more details!
+With the holidays upon us, we're taking a bit of a break. Stay tuned for updates and we'll see you in 2019!
