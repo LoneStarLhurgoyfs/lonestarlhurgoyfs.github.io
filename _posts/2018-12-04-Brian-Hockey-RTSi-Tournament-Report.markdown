@@ -51,7 +51,7 @@ I play Recall off the Sapphire. One of the cards it draws me is a Hurkyl’s Rec
 
 On my turn I draw the PO, then I Hurkyl’s Myself to net an extra blue mana. I replay my artifacts and cast the PO as an Ancestral Recall that generates four storm. Among my draws are Demonic Tutor and Mind’s Desire. I tutor for a Black Lotus which lets me cast the Mind’s Desire for 11. It finds Tendrils.
 
-###Game 2 on the draw
+### Game 2 on the draw
 
 Force of Will, Island, Ancestral Recall, Mox Pearl, Mox Ruby, Ponder
 
@@ -111,7 +111,7 @@ I make a critical mistake in this game where I wait to cast my Ancestral Recall 
 
 This matchup looks abysmal on paper, but I’ve beaten it each time I’ve faced it. Stu doesn’t think it’s a particularly good matchup for him, either.
 
-###Game 1 on the play
+### Game 1 on the play
 
 Preordain, Preordain, Force of Will, Mox Emerald, Mox Opal, Underground Sea, Paradoxical Outcome
 
