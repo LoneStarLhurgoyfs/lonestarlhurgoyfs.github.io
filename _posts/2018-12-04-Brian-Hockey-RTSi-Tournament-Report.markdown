@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Bryan Hockey - Romancing the Stones Invitational Tournament Report: 1st with Paradoxical"
-excerpt: "By the time the eighth and final qualifier event of the 2018 Romancing the Stones season came around, I was already frothing in anticipation for the invitational. A disappointing double X-4 finish during Eternal Weekend had left me looking for a win with a little prestige. I’d hoped that it would come during RTS8, but to no avail. That left the invitational. The posting on lonestarlhurgoyfs.com said it all: the winner would receive \“a year’s worth of bragging rights.\"*"
-date:   2018-12-04 09:15:00 -600
+title: "Bryan Hockey - Romancing the Stones Invitational Tournament Report: 1st with Paradoxical"
+excerpt: "By the time the eighth and final qualifier event of the 2018 Romancing the Stones season came around, I was already frothing in anticipation for the invitational."
+date: 2018-12-04 09:15:00 -600
 categories: Vintage TournamentReport RTSi
 ---
 
