@@ -15,6 +15,8 @@ block: "no" #means is shown in itunes
 
 In the first of a more competitive and data driven series of podcasts, Ben and Sean take a crack at Ravnica Alliegiance and make predictions on which cards will see Legacy play in the months to come.
 
+[Audio link](https://audio.lonestarlhurgoyfs.com/Lone_Star_Legacy_21_RNA_Review.mp3)
+
 Timestamps:
 
 00:00:00 Intro   
@@ -34,5 +36,4 @@ Timestamps:
 02:17:18 Prime Speaker Vannifar   
 02:34:07 Outro   
 
-[Audio link](https://audio.lonestarlhurgoyfs.com/Lone_Star_Legacy_21_RNA_Review.mp3)
-
+[Sean and Ben's predictions](https://docs.google.com/spreadsheets/d/1_lUypDpEt8jum8_jaFyOFrD2fZyIvDhiktPFGST6m50/edit?usp=sharing)
