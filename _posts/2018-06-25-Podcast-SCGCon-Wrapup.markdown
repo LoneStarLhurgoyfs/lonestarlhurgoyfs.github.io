@@ -13,7 +13,7 @@ explicit: "yes" #other option is no
 block: "no" #means is shown in itunes
 ---
 
-Ben, Mike, and Stu discuss their preperations for SCGCon.
+Ben, Mike, and Stu discuss their preparations for SCGCon.
 
 [Audio link](https://audio.lonestarlhurgoyfs.com/Lone_Star_Legacy_16_SCGCon_Wrapup.mp3)
 
