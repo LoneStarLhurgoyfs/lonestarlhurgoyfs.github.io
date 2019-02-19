@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  17 February 2019 Proxy Vintage at Brash Brewing Company [17 Players]"
+title:  "17 February 2019 Proxy Vintage at Brash Brewing Company [17 Players]"
 excerpt: "PLAYERCOUNT players competed in Vintage at LOCATION today. Check out the results!"
 date:   2019-02-18 18:50:00 -0500
 categories: Vintage Results Brash
