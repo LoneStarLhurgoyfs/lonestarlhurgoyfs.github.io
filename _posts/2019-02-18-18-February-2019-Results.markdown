@@ -14,7 +14,7 @@ Sunday, seventeen brave warriors paid a visit to Houston's most metal brewery to
 
 Standings:
 
-![](https://images.lonestarlhurgoyfs.com/2019-02-17/standings.jpg)
+![](https://images.lonestarlhurgoyfs.com/2019-02-17/standings.png)
 
 Unfortunately, our TO forgot to bring blank deck sheets, so there aren't decklists to post :(
 
