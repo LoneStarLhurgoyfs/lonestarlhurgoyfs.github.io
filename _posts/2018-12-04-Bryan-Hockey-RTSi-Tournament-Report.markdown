@@ -10,7 +10,7 @@ redirect_from: "/2018-12-04-Brian-Hockey-RTSi-Tournament-Report/"
 By the time the eighth and final qualifier event of the 2018 Romancing the Stones season came around, I was already frothing in anticipation for the invitational. A disappointing double X-4 finish during Eternal Weekend had left me looking for a win with a little prestige. I’d hoped that it would come during [RTS8](https://lonestarlhurgoyfs.com/2018-11-19-17-November-2018-Results/), but to no avail. That left the invitational. The posting on lonestarlhurgoyfs.com said it all: the winner would receive “a year’s worth of bragging rights."*
 
 
-# Preperation
+# Preparation
 
 The invitational format offers the most knowable metagame of any tournament. The rosters are small, and the players’ complete deck selection history is typically available. This shifts the focus from the tight play that is necessary to win at big events towards optimal deck and card selection. By choosing correctly, one can [nuke their opponents from orbit](https://www.youtube.com/watch?v=aCbfMkh940Q) before the first round even starts.
 
