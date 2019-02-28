@@ -10,7 +10,7 @@ categories: Vintage Results Brash
 
 [Discuss this post on The Mana Drain](http://themanadrain.com/topic/2420/2-17-19-proxy-vintage-brash-brewing-co-17-players)
 
-Sunday, seventeen brave warriors paid a visit to Houston's most metal brewery to do battle in Magic's best format.
+Sunday, seventeen brave warriors paid a visit to Houston's 666th most metal brewery to do battle in Magic's best format.
 
 Standings:
 
