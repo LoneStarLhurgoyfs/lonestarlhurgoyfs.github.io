@@ -13,6 +13,8 @@ explicit: "yes" #other option is no
 block: "no" #means is shown in itunes
 ---
 
+[Audio Link](https://audio.lonestarlhurgoyfs.com/Lone_Star_Legacy_23_WAR_Review.mp3)
+
 Sean and Ben are back with their War of the Spark set review! On this podcast, the duo take a look at some of the most hyped up cards in the new set, and in typical fashion take uneducated guesses at how many top 8's each will see in in the near future.
 
 00:00:00 Intro   
