@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Podcast: War of the Spark Set Review"
-date:   2019-05-22 9:00:00 -0500
+date:   2019-05-02 9:00:00 -0500
 categories: Podcast Legacy Vintage
 file: https://audio.lonestarlhurgoyfs.com/Lone_Star_Legacy_23_WAR_Review.mp3
 file_itunes: https://audio.lonestarlhurgoyfs.com/Lone_Star_Legacy_23_WAR_Review.mp3
