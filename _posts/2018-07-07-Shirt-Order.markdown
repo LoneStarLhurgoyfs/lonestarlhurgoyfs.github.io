@@ -2,6 +2,7 @@
 layout: post
 title:  "T-Shirts available for order now through July 21"
 excerpt: "T-Shirts available for order now through July 21"
+thumb: https://images.lonestarlhurgoyfs.com/2018/07/shirts/thumb.jpg
 date:   2018-07-07 13:00:00 -500
 categories: Shirts
 ---
