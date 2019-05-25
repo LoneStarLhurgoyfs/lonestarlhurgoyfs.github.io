@@ -11,17 +11,20 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-        <h4>
-          {%for category in post.categories %}
-            {{category}}
-          {% endfor %}
-        </h4>
+<div class="clearfix float-my-children">
+   <img src="https://images.lonestarlhurgoyfs.com/thumbs/blank.png" height = 100 width=100>
+   <p>
+     {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+     <span class = "post_date">{{ post.date | date: date_format }}</span>
+     <br>
+     <span class = "post_link"><a href = "{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
+     <br>
+     <span class = "post_tags">
+      {%for category in post.categories %}
+      {{category}}
+      {% endfor %}</span>
+   </p>
+</div>
       </li>
     {% endfor %}
   </ul>
@@ -29,3 +32,7 @@ layout: default
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
 </div>
+
+
+
+
