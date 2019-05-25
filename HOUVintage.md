@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Next HOU Vintage: June 9: RTS Invasion"
+title: "Next HOU Vintage: June 8: RTS Invasion"
 permalink: /HOUVintage/
 redirect_from: "/nextVintageTournament/"
 ---
@@ -15,4 +15,4 @@ The Austin team is bringing their expertise to Houston. Join us June 8 at PJ's S
 
 For more info, see the [Romancing the Stones website](https://stonesmtg.com/announce/2019-06-08).
 
-![](https://images.lonestarlhurgoyfs.com/2019/06/09/poster.jpg)
+![](https://images.lonestarlhurgoyfs.com/2019/06/08/poster.jpg)
