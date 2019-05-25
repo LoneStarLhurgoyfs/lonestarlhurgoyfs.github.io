@@ -9,6 +9,8 @@ Fellow fifth-graders-at-heart, it's time to grow up. But only to sixth grade.
 
 Following [The Romancing the Stones](https://stonesmtg.com/announce/2019-06-08) Vintage tournament at PJ's on Satuday June 8th, we will be hosting Houston's first Middle School tournament on Sunday!
 
+![](https://images.lonestarlhurgoyfs.com/2019/06/09/feature_image.jpg)
+
 The full rules and banned list for Middle School may be found at Eternal Central [[here]](https://eternalcentral.com/middleschoolrules/). We will be making one addendum to those rules: As the format is still quite new, **unlimited proxies will be allowed.**
 
 **Date:** June 9, 2019  
