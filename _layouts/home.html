@@ -12,7 +12,20 @@ layout: default
     {% for post in site.posts %}
       <li>
 <div class="clearfix float-my-children">
-   <img src="https://images.lonestarlhurgoyfs.com/thumbs/blank.png" height = 100 width=100>
+  {% if post.categories contains "Podcast" %}
+     <img src="https://images.lonestarlhurgoyfs.com/thumbs/podcast.png" height = 100 width=100>
+  {% elsif post.categories contains "Annoucement" %}
+    <img src="https://images.lonestarlhurgoyfs.com/thumbs/announcement.png" height = 100 width=100>
+  {% elsif post.categories contains "Vintage" %}
+     <img src="https://images.lonestarlhurgoyfs.com/thumbs/vintage.jpg" height = 100 width=100>
+  {% elsif post.categories contains "Legacy" %}
+     <img src="https://images.lonestarlhurgoyfs.com/thumbs/legacy.jpg" height = 100 width=100>
+  {% elsif post.categories contains "OldSchool" %}
+     <img src="https://images.lonestarlhurgoyfs.com/thumbs/oldschool.jpg" height = 100 width=100>
+  {% else %}
+     <img src="https://images.lonestarlhurgoyfs.com/thumbs/blank.png" height = 100 width=100>
+  {%endif%}
+
    <p>
      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
      <span class = "post_date">{{ post.date | date: date_format }}</span>
