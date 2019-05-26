@@ -20,7 +20,7 @@
 }
 
 /* tell the container's children to float left: */
-.float-my-children > * {
+.float-my-children img {
     float:left;
     margin-right:5px;
 }
