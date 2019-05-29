@@ -21,4 +21,18 @@ The full rules and banned list for Middle School may be found at Eternal Central
 **Proxy limit:** Unlimited proxy  
 **Proxy rules:** Don't make us need to make a proxy rule!  
 **Decklists:** Required! Registration sheets will be available on site or you may email your list to sam@LoneStarLhurgoyfs.com  
-**Prizes**: After playing Swiss+1, the top 4 players will draft playsets of Painlands. The exact lands available to win will be announced once Sam receives them.  
+**Prizes**: If we have eight or more players, fter playing Swiss+1, the top 4 players will draft playsets of Painlands. Additionally, if we have twelve or more players, we will raffle off an Oath of Druids Starter kit!
+
+Click for full size.
+
+[![](https://images.lonestarlhurgoyfs.com/2019/06/09/prize_pool.jpg)](https://images.lonestarlhurgoyfs.com/2019/06/09/prize_pool_large.jpg)
+
+Prize pool grades, from the vendor:
+
+* Adarkar Wastes 4xEX
+* Karplusan Forest 1xEX 3xVG
+* Underground River 4xVG
+* Yavimaya Coast 2xEX 2xVG
+* Oath of Druids VG
+* Spike Feeder VG
+* Morphling EX
