@@ -17,10 +17,10 @@ block: "no" #means is shown in itunes
 
 Ben and Sean discuss the Legacy meta game since the release of Ravnica Allegiance, then go over their predictions for RNA spoilers.
 
-00:00:00 Intro
-00:02:45 Meta Game Review by Deck
-01:23:07 Meta Game Review by Playstyle
-01:41:34 The Spice Rack
-01:49:54 Ravnica Allegiance Report Card
+00:00:00 Intro   
+00:02:45 Meta Game Review by Deck   
+01:23:07 Meta Game Review by Playstyle   
+01:41:34 The Spice Rack   
+01:49:54 Ravnica Allegiance Report Card   
 
 [Ravnica Allegiance Meta Analysis Spreadsheet](https://docs.google.com/spreadsheets/d/1I4Cv_5JsgvU4iF-dAweXesXMPeKISBk_i4VEo40C7WE/edit?usp=sharing)
