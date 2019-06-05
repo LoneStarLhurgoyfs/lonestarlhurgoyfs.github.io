@@ -13,6 +13,8 @@ Following [The Romancing the Stones](https://stonesmtg.com/announce/2019-06-08) 
 
 The full rules and banned list for Middle School may be found at Eternal Central [[here]](https://eternalcentral.com/middleschoolrules/). We will be making one addendum to those rules: As the format is still quite new, **unlimited proxies will be allowed.**
 
+**Update 2019-06-04:** [Eternal Central have announced that they are adopting the "London Mulligan" effective immediately.](https://eternalcentral.com/old-school-and-middle-school-adopting-london-mulligan/) This tournament will therefore also use the "London Mulligan."
+
 **Date:** June 9, 2019  
 **Location:** [Brash Brewing Company](https://www.facebook.com/Brash-brewing-company-229796680431006/) 508 W Crosstimbers Rd, Houston, TX 77018 [[MAP]](https://goo.gl/maps/JbUmv9nZm1B2)  
 **Registration Time:** 12:00 PM  
