@@ -1,18 +1,8 @@
 ---
 layout: page
-title: "Next HOU Vintage: June 8: RTS Invasion"
+title: "Next HOU Vintage: TBD"
 permalink: /HOUVintage/
 redirect_from: "/nextVintageTournament/"
 ---
 
-Time for a little good news / bad news.
-
-**Bad news:** Houston is being invaded.
-
-**Good news:** It's not Phyrexians.
-
-The Austin team is bringing their expertise to Houston. Join us June 8 at PJ's Sports Bar!
-
-For more info, see the [Romancing the Stones website](https://stonesmtg.com/announce/2019-06-08).
-
-![](https://images.lonestarlhurgoyfs.com/2019/06/08/poster.jpg)
+Our last tournament was great! [Check out the results HERE!](https://stonesmtg.com/results/2019-06-08) We're working on scheduling the next tournament now. Stay tuned for details!
