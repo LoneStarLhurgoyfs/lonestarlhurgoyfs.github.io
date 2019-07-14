@@ -3,7 +3,7 @@ layout: post
 title:  "Results: Houston's Legacy [26 Players]"
 excerpt: "26 players came out to do battle for charity today! Check out the results!"
 date:   2019-07-14 12:00:00 -0500
-categories: Vintage Results LOCATIONTAG
+categories: Legacy Results AsgardGames
 ---
 
 [Top 16 on TCDecks HERE](https://www.tcdecks.net/deck.php?id=31085)
