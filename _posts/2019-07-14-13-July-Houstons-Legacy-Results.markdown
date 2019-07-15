@@ -12,7 +12,7 @@ categories: Legacy Results AsgardGames
 
 Standings:
 
-1. Charles Ouyant - [RUG Delver](https://www.tcdecks.net/deck.php?id=31085&iddeck=265462)
+1. Charles Ouyang - [RUG Delver](https://www.tcdecks.net/deck.php?id=31085&iddeck=265462)
 2. Nick Patniyot - [Pox Depths](https://www.tcdecks.net/deck.php?id=31085&iddeck=265463)
 3. Nicholas Rouse - [Grixis Control](https://www.tcdecks.net/deck.php?id=31085&iddeck=265464)
 4. Simon Christie - [UR Arcanist](https://www.tcdecks.net/deck.php?id=31085&iddeck=265465)
