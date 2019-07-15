@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "Next HOU Vintage: TBD"
+title: "HOU Vintage Aug 3"
 permalink: /HOUVintage/
 redirect_from: "/nextVintageTournament/"
 ---
 
-Our last tournament was great! [Check out the results HERE!](https://stonesmtg.com/results/2019-06-08) We're working on scheduling the next tournament now. Stay tuned for details!
+Mark your calendars! Our next 100% Proxy Vintage tournament will be Saturday, August 3!
+
+Location is still TBD so be sure to [follow us on Twitter](https://twitter.com/TexasLhurgoyfs) or check back here soon!
