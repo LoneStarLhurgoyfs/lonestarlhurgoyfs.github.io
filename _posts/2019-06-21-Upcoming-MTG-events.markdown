@@ -18,6 +18,6 @@ The next few weekends are jam-packed with great Magic events. For your convenien
 
 **July 19 & 21** [TinFinvitational Denver 2019](https://tinfins.life) - 100% Proxy Vintage on Friday and partial-proxy Legacy on Sunday. Hosted by friend-to-the-Goyfs, [Josh Bingaman](https://twitter.com/beanaman).
 
-**July 27** Houston Proxy Vintage returns - and on a Saturday! More details closer to time. Sorry for the delay but it's first free Saturday @thecravenone has had to run a tournament since mid-May.
+~~**July 27**~~ **August 3** Houston Proxy Vintage returns - and on a Saturday! More details closer to time. Sorry for the delay but it's first free Saturday @thecravenone has had to run a tournament since mid-May.
 
-Nothing planned for August **yet** but expect to see some strucured Legacy testing sessions as we gear up for [Magicfest Atlanta](https://www.cfbevents.com/mtgatlanta) Sep 20-22. 
+Also, expect to see some strucured Legacy testing sessions as we gear up for [Magicfest Atlanta](https://www.cfbevents.com/mtgatlanta) Sep 20-22. 
