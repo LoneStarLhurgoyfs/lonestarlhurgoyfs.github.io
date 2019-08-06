@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Podcast: Summer 2019 Metagame Review"
-date: 2019-08-65 12:50:00 -0500
+date: 2019-08-6 12:50:00 -0500
 categories: Podcast Legacy Vintage
 file: https://audio.lonestarlhurgoyfs.com/Lone_Star_Legacy_28_Summer_2019_Metagame_Review.mp3
 file_itunes: audio.lonestarlhurgoyfs.com/Lone_Star_Legacy_28_Summer_2019_Metagame_Review.mp3
