@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "HOU Vintage TBD"
+title: "HOU Vintage Sep 29"
 permalink: /HOUVintage/
 redirect_from: "/nextVintageTournament/"
 ---
 
-Our [last event](/2019-08-03-3-August-2019-Results/) was great! Check back soon for the next tournament!
+Our next Vintage event is scheduled for September 29th. Stay tuned for more details!
