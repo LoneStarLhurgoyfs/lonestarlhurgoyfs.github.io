@@ -41,3 +41,7 @@ Most of the tables at Brash are picnic style tables so a playmat would definitel
 # Prizes
 
 Cash: We pay out 100% of entry fee in cash top top 4 plus a free [crowler](http://www.bonappetit.com/drinks/beer/article/what-is-a-crowler-beer) of beer to our first place winner. (If the first place winner declines, the crowler goes to the highest finishing player who wants it)
+
+# Throne of Eldraine
+
+As with previous Vintage events held on Prerelease weekend, we will be allowing the use of cards from the new set, [Throne of Eldraine](https://scryfall.com/sets/eld?as=grid&order=name). Remember that we allow as many proxies as you can print, so not owning a card is no excuse!
