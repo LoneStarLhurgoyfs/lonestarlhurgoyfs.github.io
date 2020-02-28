@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ATX Vintage"
+title: "Romancing the Stones (ATX)"
 permalink: /ATXVintage/
 ---
 
