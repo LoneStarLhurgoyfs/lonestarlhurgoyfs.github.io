@@ -30,7 +30,10 @@ We'll be plaing under the same rules that were used in London. All current rules
 
 # Further Reading About the Format
 
-Unfortunately, as a Misstep-free pre-Innistrad format only existed for ten days, there aren't many decklists available. You can find Star City Games' decks from the month preceeding the Innistrad release [[here]](http://old.starcitygames.com/decks/results/format/3/start_date/01-08-2011/end_date/30-09-2011/w_perc/0/g_perc/0/r_perc/0/b_perc/0/u_perc/0/a_perc/0/order_1/finish/limit/25/start_num/0/)
+Unfortunately, as a Misstep-free pre-Innistrad format only existed for ten days, there aren't many decklists available.
+
+* You can find Star City Games' decks from the month preceeding the Innistrad release [[here]](http://old.starcitygames.com/decks/results/format/3/start_date/01-08-2011/end_date/30-09-2011/w_perc/0/g_perc/0/r_perc/0/b_perc/0/u_perc/0/a_perc/0/order_1/finish/limit/25/start_num/0/)
+* GP Amsterdam was shortly after Innistrad was released. Find its coverage [[here]](https://magic.wizards.com/en/events/coverage/gpams11)
 
 The folks already playing the format have setup a Discord: [[Click me!]](https://discord.gg/E4gfzy3)
 
