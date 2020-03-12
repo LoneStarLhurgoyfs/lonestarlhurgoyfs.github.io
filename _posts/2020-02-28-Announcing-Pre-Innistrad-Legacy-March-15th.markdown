@@ -15,7 +15,8 @@ After seeing [the post about Pre-Innistrad Legacy](https://www.reddit.com/r/MTGL
 # Quick Facts
 
 Date: March 15, 2020  
-Location: TBD   
+Location: [Rudyard's Pub](http://www.rudyardspub.com/wordpress/)  2010 Waugh Dr
+Houston, Texas, 77006 [[MAP]](https://goo.gl/maps/mBxMSRjrDAU2)     
 Registration Time: 11:30 AM  
 Event Begins: 12:00 PM   
 Entry Fee: $10  
