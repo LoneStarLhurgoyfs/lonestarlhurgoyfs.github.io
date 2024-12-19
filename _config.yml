@@ -28,7 +28,7 @@ markdown: kramdown
 exclude:
   - Gemfile
   - Gemfile.lock
-email:	sam@lonestarlhurgoyfs.com
+email:	sam@seemsgood.com
 subtitle: "Here for the beer."
 url: https://lonestarlhurgoyfs.com
 lang: en
