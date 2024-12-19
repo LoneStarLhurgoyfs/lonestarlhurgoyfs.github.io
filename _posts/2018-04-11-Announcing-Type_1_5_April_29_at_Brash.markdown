@@ -22,7 +22,7 @@ Nope. We're running Type 1.5 by the old rules. Anything currently banned or rest
 * Squirrels!
 * And more!
 
-![](https://images.lonestarlhurgoyfs.com/2018-04-29/type_15_cards.jpg)
+![](https://images.lonestarlhurgoyfs.com/2018/04/29/type_15_cards.jpg)
 
 Additionally, don't forget that **Dominaria will be legal for this event.**
 
