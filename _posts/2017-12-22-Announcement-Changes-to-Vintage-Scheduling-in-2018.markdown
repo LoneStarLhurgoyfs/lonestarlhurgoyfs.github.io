@@ -23,4 +23,4 @@ Stu reports that the Austin crew is working towards tournament regularity. He ho
 
 Special thanks to Brian Tweedy for designing this very cool poster for the the first of many tournaments in the new Austin series, **Romancing the Stones**.
 
-![](https://images.lonestarlhurgoyfs.com/2018-01-13/poster.jpg)
+![](https://images.lonestarlhurgoyfs.com/2018/01/13/poster.jpg)

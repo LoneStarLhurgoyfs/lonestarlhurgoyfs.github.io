@@ -12,7 +12,7 @@ categories: MiddleSchool Results Brash
 
 Standings:
 
-![](https://images.lonestarlhurgoyfs.com/2019-06-09/standings.png)
+![](https://images.lonestarlhurgoyfs.com/2019/06/09/standings.png)
 
 1. Bryan Hockey - [GW Enchantress](https://www.mtggoldfish.com/deck/1989311#paper)
 2. Michael O'Mally - [Jund Aggro](https://www.mtggoldfish.com/deck/1993540#paper)

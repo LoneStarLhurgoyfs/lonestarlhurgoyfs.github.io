@@ -13,14 +13,14 @@ categories: Vintage Results BrashBrewingCo
 
 [TCDecks Link](http://www.tcdecks.net/deck.php?id=25103)
 
-1. Ben Kendrick - [White Eldrazi](https://images.lonestarlhurgoyfs.com/2017-10-08/deck-1.jpg)
-2. Sean Liu- [Pitch Dredge](https://images.lonestarlhurgoyfs.com/2017-10-08/deck-2.jpg)
-3. Nick Patniyot - [Salvagers Oath](https://images.lonestarlhurgoyfs.com/2017-10-08/deck-3.jpg)   
-4. John Russell - [Grixis Fish](https://images.lonestarlhurgoyfs.com/2017-10-08/deck-4.jpg)   
-5. Tim Everett - [Merfolk](https://images.lonestarlhurgoyfs.com/2017-10-08/deck-5.jpg)   
-6. Will Miertschin - [Clamp Shops](https://images.lonestarlhurgoyfs.com/2017-10-08/deck-6.jpg)   
-7. Joe Kington - [Paradoxical Storm](https://images.lonestarlhurgoyfs.com/2017-10-08/deck-7.jpg)   
-8. Sam Craven - [4 Color Control](https://images.lonestarlhurgoyfs.com/2017-10-08/deck-8.jpg)
+1. Ben Kendrick - [White Eldrazi](https://images.lonestarlhurgoyfs.com/2017/10/08/deck-1.jpg)
+2. Sean Liu- [Pitch Dredge](https://images.lonestarlhurgoyfs.com/2017/10/08/deck-2.jpg)
+3. Nick Patniyot - [Salvagers Oath](https://images.lonestarlhurgoyfs.com/2017/10/08/deck-3.jpg)   
+4. John Russell - [Grixis Fish](https://images.lonestarlhurgoyfs.com/2017/10/08/deck-4.jpg)   
+5. Tim Everett - [Merfolk](https://images.lonestarlhurgoyfs.com/2017/10/08/deck-5.jpg)   
+6. Will Miertschin - [Clamp Shops](https://images.lonestarlhurgoyfs.com/2017/10/08/deck-6.jpg)   
+7. Joe Kington - [Paradoxical Storm](https://images.lonestarlhurgoyfs.com/2017/10/08/deck-7.jpg)   
+8. Sam Craven - [4 Color Control](https://images.lonestarlhurgoyfs.com/2017/10/08/deck-8.jpg)
 
 
 Play of the tournament:
@@ -29,15 +29,15 @@ Sean, having been wasted off of Bazaar, was dredging naturally. After running ou
 
 Pics:
 
-![](https://images.lonestarlhurgoyfs.com/2017-10-08/1.jpg)
-![](https://images.lonestarlhurgoyfs.com/2017-10-08/2.jpg)
-![](https://images.lonestarlhurgoyfs.com/2017-10-08/3.jpg)
-![](https://images.lonestarlhurgoyfs.com/2017-10-08/4.jpg)
-![](https://images.lonestarlhurgoyfs.com/2017-10-08/5.jpg)
-![](https://images.lonestarlhurgoyfs.com/2017-10-08/6.jpg)
+![](https://images.lonestarlhurgoyfs.com/2017/10/08/1.jpg)
+![](https://images.lonestarlhurgoyfs.com/2017/10/08/2.jpg)
+![](https://images.lonestarlhurgoyfs.com/2017/10/08/3.jpg)
+![](https://images.lonestarlhurgoyfs.com/2017/10/08/4.jpg)
+![](https://images.lonestarlhurgoyfs.com/2017/10/08/5.jpg)
+![](https://images.lonestarlhurgoyfs.com/2017/10/08/6.jpg)
 
 Why people turn to the dark side
-![](https://images.lonestarlhurgoyfs.com/2017-10-08/7.jpg)
+![](https://images.lonestarlhurgoyfs.com/2017/10/08/7.jpg)
 
 Sam's question of the tournament: On the play, in the blind. Keep or mull?
-![](https://images.lonestarlhurgoyfs.com/2017-10-08/8.jpg)
+![](https://images.lonestarlhurgoyfs.com/2017/10/08/8.jpg)
